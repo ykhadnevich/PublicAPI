@@ -495,9 +495,9 @@ var jsonFilePath = "Data3.json"; // Replace with the actual path to your JSON fi
 var jsonData = File.ReadAllText(jsonFilePath);
 var usersData = JsonConvert.DeserializeObject<Dictionary<Guid, User>>(jsonData);
 
+var app1 = WebApplication.Create(args);
 
-
-app.MapGet("/api/users/list", (HttpContext context) =>
+app1.MapGet("/api/users/list", (HttpContext context) =>
 {
     var response = usersData.Values.Select(user => new
     {
