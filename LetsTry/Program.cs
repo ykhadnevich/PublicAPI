@@ -491,13 +491,13 @@ app.MapGet("/api/predictions/user", (HttpContext context) =>
     }
 });
 
-var jsonFilePath = "Data3.json"; // Replace with the actual path to your JSON file
+var jsonFilePath = "PublicAPI/LetsTry/Data3.json"; // Replace with the actual path to your JSON file
 var jsonData = File.ReadAllText(jsonFilePath);
 var usersData = JsonConvert.DeserializeObject<Dictionary<Guid, User>>(jsonData);
 
-var app1 = WebApplication.Create(args);
 
-app1.MapGet("/api/users/list", (HttpContext context) =>
+
+app.MapGet("/api/users/list", (HttpContext context) =>
 {
     var response = usersData.Values.Select(user => new
     {
@@ -534,7 +534,7 @@ static string GetFirstSeenDate(List<OnlineRelic> onlineRelic)
 }
 
 
-app1.Run();
+
 app.Run();
 
 bool CalculateOnlineChance(string dataFilePath, DateTime specifiedDate, double tolerance, string userId, out double onlineChance)
