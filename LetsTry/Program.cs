@@ -307,53 +307,97 @@ using Newtonsoft.Json.Linq;
 using System.Globalization;
 using System.Net;
 using System.Text;
-using Newtonsoft.Json;
-using MoreLinq;
 
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 app.MapGet("/", () => "Hello World!");
 
-var jsonFilePath = "Data3.json"; // Replace with the actual path to your JSON file
-var jsonData = File.ReadAllText(jsonFilePath);
-var usersData = JsonConvert.DeserializeObject<Dictionary<Guid, User>>(jsonData);
-
-app.MapGet("/api/users/list", (HttpContext context) =>
+app.MapGet("/api/stats/users", (HttpContext context) =>
 {
-    var response = usersData.Values.Select(user => new
+    // Get the date parameter from the query string
+    string date = context.Request.Query["date"];
+
+    try
     {
-        username = user.FirstName,
-        userId = user.UserId,
-        firstSeen = GetFirstSeenDate(user.OnlineRelic)
-    });
+        // Read and parse the Data.txt file
+        var lines = System.IO.File.ReadAllLines("PublicAPI/LetsTry/Data.txt");
 
-    context.Response.StatusCode = 200;
-    return context.Response.WriteAsJsonAsync(response);
-});
+        // Find the line that matches the specified date and time
+        string line = lines.FirstOrDefault(l => l.Contains(date));
 
-static string GetFirstSeenDate(List<OnlineRelic> onlineRelic)
-{
-    if (onlineRelic == null || onlineRelic.Count == 0)
-    {
-        return null;
-    }
-
-    DateTimeOffset? firstSeenDate = null;
-
-    foreach (var online in onlineRelic)
-    {
-        if (DateTimeOffset.TryParseExact(online.StartDate, new[] { "dd.MM.yyyy HH:mm:ss", "dd.MM.yyyy H:mm:ss" }, CultureInfo.InvariantCulture, DateTimeStyles.None, out var parsedDate))
+        if (line != null)
         {
-            if (!firstSeenDate.HasValue || parsedDate < firstSeenDate)
-            {
-                firstSeenDate = parsedDate;
-            }
+            // Extract the "Total online users" count
+            int startIndex = line.IndexOf("Total online users: ") + "Total online users: ".Length;
+            int endIndex = line.IndexOf(" ", startIndex);
+            string userCount = line.Substring(startIndex, endIndex - startIndex);
+
+            context.Response.StatusCode = 200;
+            return context.Response.WriteAsync($"Total online users: {userCount}");
+        }
+        else
+        {
+            context.Response.StatusCode = 404;
+            return context.Response.WriteAsync("Data not found for the specified date and time.");
         }
     }
+    catch (Exception ex)
+    {
+        context.Response.StatusCode = 500;
+        return context.Response.WriteAsync($"An error occurred: {ex.Message}");
+    }
+});
 
-    return firstSeenDate?.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz");
-}
+
+app.MapGet("/api/stats/user", (HttpContext context) =>
+{
+    // Get the date and user ID parameters from the query string
+    string date = context.Request.Query["date"];
+    string userId = context.Request.Query["userId"];
+
+    try
+    {
+        // Read and parse the Data2.txt file
+        var lines = System.IO.File.ReadAllLines("PublicAPI/LetsTry/Data2.txt");
+
+        // Find the line that matches the specified date and user ID
+        var matchingLine = lines.FirstOrDefault(line =>
+        {
+            return line.Contains($"Time:{date};") && line.Contains($"ID:{userId};");
+        });
+
+        if (matchingLine != null)
+        {
+            // Extract the "wasUserOnline" and "nearestOnlineTime" values
+            var wasUserOnline = matchingLine.Contains("wasUserOnline:true");
+            var nearestOnlineTime = "";
+
+            if (matchingLine.Contains("nearestOnlineTime:"))
+            {
+                int startIndex = matchingLine.IndexOf("nearestOnlineTime:") + "nearestOnlineTime:".Length;
+                int endIndex = matchingLine.IndexOf(";", startIndex);
+                nearestOnlineTime = matchingLine.Substring(startIndex, endIndex - startIndex);
+            }
+
+            // Prepare the response
+            var responseMessage = $"wasUserOnline: {wasUserOnline}, nearestOnlineTime: {nearestOnlineTime}";
+
+            context.Response.StatusCode = 200;
+            return context.Response.WriteAsync(responseMessage);
+        }
+        else
+        {
+            context.Response.StatusCode = 404;
+            return context.Response.WriteAsync("Data not found for the specified date and user ID.");
+        }
+    }
+    catch (Exception ex)
+    {
+        context.Response.StatusCode = 500;
+        return context.Response.WriteAsync($"An error occurred: {ex.Message}");
+    }
+});
 app.MapGet("/api/predictions/users", (HttpContext context) =>
 {
     // Get the date parameter from the query string
@@ -406,6 +450,44 @@ app.MapGet("/api/predictions/users", (HttpContext context) =>
     {
         context.Response.StatusCode = 500;
         return context.Response.WriteAsync($"An error occurred: {ex.Message}");
+    }
+});
+
+app.MapGet("/api/predictions/user", (HttpContext context) =>
+{
+    // Get the query parameters from the URL
+    string requestedDateString = context.Request.Query["date"];
+    DateTime specifiedDate = DateTime.ParseExact(requestedDateString, "dd.MM.yyyy HH:mm:ss", CultureInfo.InvariantCulture);
+    string toleranceStr = context.Request.Query["tolerance"];
+    string userId = context.Request.Query["userId"];
+
+    if (double.TryParse(toleranceStr, NumberStyles.Any, CultureInfo.InvariantCulture, out double tolerance))
+    {
+        if (CalculateOnlineChance("PublicAPI/LetsTry/Data2.txt", specifiedDate, tolerance, userId, out double onlineChance))
+        {
+            var response = new
+            {
+                willBeOnline = onlineChance <= tolerance,
+                onlineChance = onlineChance
+            };
+
+            context.Response.StatusCode = 200;
+            return context.Response.WriteAsJsonAsync(response);
+        }
+        else
+        {
+            context.Response.StatusCode = 200; // User data not found, onlineChance is 0.
+            return context.Response.WriteAsJsonAsync(new
+            {
+                willBeOnline = false,
+                onlineChance = 0
+            });
+        }
+    }
+    else
+    {
+        context.Response.StatusCode = 400; // Bad Request
+        return context.Response.WriteAsync("Invalid tolerance parameter. Please use a valid numeric value.");
     }
 });
 
@@ -487,26 +569,10 @@ UserData ParseUserData(string line)
     return userData;
 }
 
-
-
-public class User
-{
-    public Guid UserId { get; set; }
-    public string FirstName { get; set; }
-    public List<OnlineRelic> OnlineRelic { get; set; }
-}
-
-public class OnlineRelic
-{
-    public string StartDate { get; set; }
-    public string EndDate { get; set; }
-}
 public class UserData
 {
     public string? ID { get; set; }
     public string? Time { get; set; }
     public string? NearestOnlineTime { get; set; }
     public string? WasUserOnline { get; set; }
-
-    public Dictionary<string, User> Users { get; set; }
 }
