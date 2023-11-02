@@ -321,7 +321,7 @@ app.MapGet("/api/stats/users", (HttpContext context) =>
     try
     {
         // Read and parse the Data.txt file
-        var lines = System.IO.File.ReadAllLines("Data.txt");
+        var lines = System.IO.File.ReadAllLines("PublicAPI/Data.txt");
 
         // Find the line that matches the specified date and time
         string line = lines.FirstOrDefault(l => l.Contains(date));
@@ -359,7 +359,7 @@ app.MapGet("/api/stats/user", (HttpContext context) =>
     try
     {
         // Read and parse the Data2.txt file
-        var lines = System.IO.File.ReadAllLines("Data2.txt");
+        var lines = System.IO.File.ReadAllLines("PublicAPI/Data2.txt");
 
         // Find the line that matches the specified date and user ID
         var matchingLine = lines.FirstOrDefault(line =>
@@ -406,7 +406,7 @@ app.MapGet("/api/predictions/users", (HttpContext context) =>
     try
     {
         // Read and parse the Data.txt file
-        var lines = System.IO.File.ReadAllLines("Data.txt");
+        var lines = System.IO.File.ReadAllLines("PublicAPI/Data.txt");
 
         // Extract all "Total online user" counts for the specified date
         var userCounts = lines
@@ -463,7 +463,7 @@ app.MapGet("/api/predictions/user", (HttpContext context) =>
 
     if (double.TryParse(toleranceStr, NumberStyles.Any, CultureInfo.InvariantCulture, out double tolerance))
     {
-        if (CalculateOnlineChance("Data2.txt", specifiedDate, tolerance, userId, out double onlineChance))
+        if (CalculateOnlineChance("PublicAPI/Data2.txt", specifiedDate, tolerance, userId, out double onlineChance))
         {
             var response = new
             {
