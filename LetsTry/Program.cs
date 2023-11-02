@@ -534,7 +534,7 @@ static string GetFirstSeenDate(List<OnlineRelic> onlineRelic)
 }
 
 
-
+app1.Run();
 app.Run();
 
 bool CalculateOnlineChance(string dataFilePath, DateTime specifiedDate, double tolerance, string userId, out double onlineChance)
