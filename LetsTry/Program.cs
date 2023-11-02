@@ -491,6 +491,50 @@ app.MapGet("/api/predictions/user", (HttpContext context) =>
     }
 });
 
+var jsonFilePath = "Data3.json"; // Replace with the actual path to your JSON file
+var jsonData = File.ReadAllText(jsonFilePath);
+var usersData = JsonConvert.DeserializeObject<Dictionary<Guid, User>>(jsonData);
+
+
+
+app.MapGet("/api/users/list", (HttpContext context) =>
+{
+    var response = usersData.Values.Select(user => new
+    {
+        username = user.FirstName,
+        userId = user.UserId,
+        firstSeen = GetFirstSeenDate(user.OnlineRelic)
+    });
+
+    context.Response.StatusCode = 200;
+    return context.Response.WriteAsJsonAsync(response);
+});
+
+static string GetFirstSeenDate(List<OnlineRelic> onlineRelic)
+{
+    if (onlineRelic == null || onlineRelic.Count == 0)
+    {
+        return null;
+    }
+
+    DateTimeOffset? firstSeenDate = null;
+
+    foreach (var online in onlineRelic)
+    {
+        if (DateTimeOffset.TryParseExact(online.StartDate, new[] { "dd.MM.yyyy HH:mm:ss", "dd.MM.yyyy H:mm:ss" }, CultureInfo.InvariantCulture, DateTimeStyles.None, out var parsedDate))
+        {
+            if (!firstSeenDate.HasValue || parsedDate < firstSeenDate)
+            {
+                firstSeenDate = parsedDate;
+            }
+        }
+    }
+
+    return firstSeenDate?.ToString("yyyy-MM-ddTHH:mm:ss.fffffffzzz");
+}
+
+
+
 app.Run();
 
 bool CalculateOnlineChance(string dataFilePath, DateTime specifiedDate, double tolerance, string userId, out double onlineChance)
@@ -575,4 +619,17 @@ public class UserData
     public string? Time { get; set; }
     public string? NearestOnlineTime { get; set; }
     public string? WasUserOnline { get; set; }
+}
+
+public class User
+{
+    public Guid UserId { get; set; }
+    public string FirstName { get; set; }
+    public List<OnlineRelic> OnlineRelic { get; set; }
+}
+
+public class OnlineRelic
+{
+    public string StartDate { get; set; }
+    public string EndDate { get; set; }
 }
