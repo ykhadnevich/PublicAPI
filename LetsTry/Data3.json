@@ -1,0 +1,4399 @@
+{
+  "2fba2529-c166-8574-2da2-eac544d82634": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:34:24",
+        "endDate": "22.10.2023 21:39:38"
+      },
+      {
+        "startDate": "22.10.2023 21:42:33",
+        "endDate": "22.10.2023 22:16:34"
+      },
+      {
+        "startDate": "22.10.2023 22:17:34",
+        "endDate": "22.10.2023 22:22:14"
+      },
+      {
+        "startDate": "22.10.2023 22:23:14",
+        "endDate": "22.10.2023 22:36:54"
+      },
+      {
+        "startDate": "25.10.2023 0:00:59",
+        "endDate": "25.10.2023 0:08:34"
+      },
+      {
+        "startDate": "25.10.2023 0:09:53",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:53:57"
+      }
+    ],
+    "userId": "2fba2529-c166-8574-2da2-eac544d82634",
+    "firstName": "Doug",
+    "nickname": "Doug93",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "8b0b5db6-19d6-d777-575e-915c2a77959a": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:34:24",
+        "endDate": "22.10.2023 22:03:14"
+      },
+      {
+        "startDate": "22.10.2023 22:04:54",
+        "endDate": "22.10.2023 22:09:54"
+      },
+      {
+        "startDate": "22.10.2023 22:11:34",
+        "endDate": "22.10.2023 22:19:34"
+      },
+      {
+        "startDate": "22.10.2023 22:20:14",
+        "endDate": "22.10.2023 22:32:34"
+      },
+      {
+        "startDate": "22.10.2023 22:33:14",
+        "endDate": "22.10.2023 22:34:34"
+      },
+      {
+        "startDate": "23.10.2023 23:42:25",
+        "endDate": "25.10.2023 0:08:34"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": null
+      }
+    ],
+    "userId": "8b0b5db6-19d6-d777-575e-915c2a77959a",
+    "firstName": "Nathaniel",
+    "nickname": "Nathaniel6",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:06:37.6220436+03:00"
+  },
+  "e13412b2-fe46-7149-6593-e47043f39c91": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:34:24",
+        "endDate": "22.10.2023 21:39:38"
+      },
+      {
+        "startDate": "22.10.2023 21:42:33",
+        "endDate": "22.10.2023 21:58:54"
+      },
+      {
+        "startDate": "22.10.2023 22:00:14",
+        "endDate": "22.10.2023 22:09:14"
+      },
+      {
+        "startDate": "22.10.2023 22:18:54",
+        "endDate": "22.10.2023 22:26:54"
+      },
+      {
+        "startDate": "22.10.2023 22:30:14",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:38",
+        "endDate": null
+      }
+    ],
+    "userId": "e13412b2-fe46-7149-6593-e47043f39c91",
+    "firstName": "Terry",
+    "nickname": "Terry_Weber",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:03:37.6080647+03:00"
+  },
+  "cbf0d80b-8532-070b-0df6-a0279e65d0b2": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:34:24",
+        "endDate": "22.10.2023 21:57:54"
+      },
+      {
+        "startDate": "22.10.2023 21:58:14",
+        "endDate": "22.10.2023 21:58:34"
+      },
+      {
+        "startDate": "22.10.2023 22:03:14",
+        "endDate": "22.10.2023 22:11:14"
+      },
+      {
+        "startDate": "22.10.2023 22:18:54",
+        "endDate": "22.10.2023 22:24:54"
+      },
+      {
+        "startDate": "22.10.2023 22:29:34",
+        "endDate": "22.10.2023 22:43:34"
+      },
+      {
+        "startDate": "23.10.2023 23:42:25",
+        "endDate": "25.10.2023 0:09:53"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:30:56",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:57",
+        "endDate": null
+      }
+    ],
+    "userId": "cbf0d80b-8532-070b-0df6-a0279e65d0b2",
+    "firstName": "Willard",
+    "nickname": "Willard66",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:17.6476569+03:00"
+  },
+  "de5b8815-1689-7c78-44e1-33375e7e2931": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:34:24",
+        "endDate": "22.10.2023 22:19:54"
+      },
+      {
+        "startDate": "22.10.2023 22:21:54",
+        "endDate": "22.10.2023 22:34:14"
+      },
+      {
+        "startDate": "22.10.2023 22:35:34",
+        "endDate": "22.10.2023 22:37:54"
+      },
+      {
+        "startDate": "22.10.2023 22:39:54",
+        "endDate": "22.10.2023 22:43:14"
+      },
+      {
+        "startDate": "23.10.2023 23:42:25",
+        "endDate": "25.10.2023 0:00:10"
+      },
+      {
+        "startDate": "25.10.2023 0:00:10",
+        "endDate": "25.10.2023 0:08:34"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 14:02:47"
+      },
+      {
+        "startDate": "25.10.2023 22:11:38",
+        "endDate": null
+      }
+    ],
+    "userId": "de5b8815-1689-7c78-44e1-33375e7e2931",
+    "firstName": "Nick",
+    "nickname": "Nick37",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:17.647662+03:00"
+  },
+  "e31e41f4-4992-cd5d-def4-4c79f86bb0e1": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:34:24",
+        "endDate": "22.10.2023 21:54:08"
+      },
+      {
+        "startDate": "22.10.2023 21:55:54",
+        "endDate": "22.10.2023 22:04:34"
+      },
+      {
+        "startDate": "22.10.2023 22:05:54",
+        "endDate": "22.10.2023 22:14:54"
+      },
+      {
+        "startDate": "22.10.2023 22:20:54",
+        "endDate": "22.10.2023 22:22:14"
+      },
+      {
+        "startDate": "22.10.2023 22:23:14",
+        "endDate": "22.10.2023 22:27:54"
+      },
+      {
+        "startDate": "22.10.2023 22:28:14",
+        "endDate": "22.10.2023 22:28:54"
+      },
+      {
+        "startDate": "22.10.2023 22:30:14",
+        "endDate": "22.10.2023 22:40:34"
+      },
+      {
+        "startDate": "22.10.2023 22:41:14",
+        "endDate": null
+      }
+    ],
+    "userId": "e31e41f4-4992-cd5d-def4-4c79f86bb0e1",
+    "firstName": "Jerry",
+    "nickname": "Jerry_Adams6",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:37.6110581+03:00"
+  },
+  "908dcb71-beeb-57c4-72f6-50451a6c3d12": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:39:38",
+        "endDate": "22.10.2023 21:42:34"
+      },
+      {
+        "startDate": "22.10.2023 21:54:08",
+        "endDate": "22.10.2023 21:54:54"
+      },
+      {
+        "startDate": "22.10.2023 21:55:54",
+        "endDate": "22.10.2023 21:56:34"
+      },
+      {
+        "startDate": "22.10.2023 22:09:14",
+        "endDate": "22.10.2023 22:13:14"
+      },
+      {
+        "startDate": "22.10.2023 22:13:34",
+        "endDate": "22.10.2023 22:28:54"
+      },
+      {
+        "startDate": "22.10.2023 22:30:14",
+        "endDate": "22.10.2023 22:42:34"
+      },
+      {
+        "startDate": "22.10.2023 22:43:14",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "908dcb71-beeb-57c4-72f6-50451a6c3d12",
+    "firstName": "Leticia",
+    "nickname": "Leticia.Pagac",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:17.6104338+03:00"
+  },
+  "5ed4eae5-d93c-6b18-be47-93a787c73bcb": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:34:24",
+        "endDate": "22.10.2023 21:39:38"
+      },
+      {
+        "startDate": "22.10.2023 21:42:33",
+        "endDate": "22.10.2023 21:54:08"
+      },
+      {
+        "startDate": "22.10.2023 21:57:14",
+        "endDate": "22.10.2023 22:06:34"
+      },
+      {
+        "startDate": "22.10.2023 22:08:34",
+        "endDate": "22.10.2023 22:11:34"
+      },
+      {
+        "startDate": "22.10.2023 22:13:34",
+        "endDate": "22.10.2023 22:17:34"
+      },
+      {
+        "startDate": "22.10.2023 22:24:14",
+        "endDate": "22.10.2023 22:30:14"
+      },
+      {
+        "startDate": "22.10.2023 22:33:14",
+        "endDate": "22.10.2023 22:35:34"
+      },
+      {
+        "startDate": "22.10.2023 22:38:14",
+        "endDate": "22.10.2023 22:39:34"
+      },
+      {
+        "startDate": "22.10.2023 22:40:14",
+        "endDate": "23.10.2023 23:42:25"
+      },
+      {
+        "startDate": "25.10.2023 0:00:10",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "5ed4eae5-d93c-6b18-be47-93a787c73bcb",
+    "firstName": "Myrtle",
+    "nickname": "Myrtle27",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:17.630552+03:00"
+  },
+  "05227367-07f0-b3a5-8345-2513e0c45cca": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:42:33",
+        "endDate": "22.10.2023 21:54:08"
+      },
+      {
+        "startDate": "22.10.2023 21:57:34",
+        "endDate": "22.10.2023 22:02:34"
+      },
+      {
+        "startDate": "22.10.2023 22:02:54",
+        "endDate": "22.10.2023 22:05:34"
+      },
+      {
+        "startDate": "22.10.2023 22:07:54",
+        "endDate": "22.10.2023 22:11:14"
+      },
+      {
+        "startDate": "22.10.2023 22:12:34",
+        "endDate": "22.10.2023 22:20:14"
+      },
+      {
+        "startDate": "22.10.2023 22:24:14",
+        "endDate": "22.10.2023 22:28:54"
+      },
+      {
+        "startDate": "22.10.2023 22:29:14",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 14:02:24",
+        "endDate": null
+      }
+    ],
+    "userId": "05227367-07f0-b3a5-8345-2513e0c45cca",
+    "firstName": "Robin",
+    "nickname": "Robin.Herman70",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:50:17.5403363+03:00"
+  },
+  "4a198b3f-6696-e319-2cbf-c50fa09f4ecc": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:42:54",
+        "endDate": "22.10.2023 22:02:54"
+      },
+      {
+        "startDate": "22.10.2023 22:03:34",
+        "endDate": "22.10.2023 22:12:14"
+      },
+      {
+        "startDate": "22.10.2023 22:15:34",
+        "endDate": "22.10.2023 22:24:54"
+      },
+      {
+        "startDate": "22.10.2023 22:29:54",
+        "endDate": "22.10.2023 22:33:54"
+      },
+      {
+        "startDate": "22.10.2023 22:35:14",
+        "endDate": "25.10.2023 0:00:10"
+      },
+      {
+        "startDate": "25.10.2023 0:08:34",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 14:02:47",
+        "endDate": null
+      }
+    ],
+    "userId": "4a198b3f-6696-e319-2cbf-c50fa09f4ecc",
+    "firstName": "Candice",
+    "nickname": "Candice_Farrell39",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:17.630555+03:00"
+  },
+  "bb367131-ec06-3d69-a861-eeca3f9cc88d": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:39:38",
+        "endDate": "22.10.2023 21:54:08"
+      },
+      {
+        "startDate": "22.10.2023 21:55:54",
+        "endDate": "22.10.2023 22:01:14"
+      },
+      {
+        "startDate": "22.10.2023 22:03:14",
+        "endDate": "22.10.2023 22:08:14"
+      },
+      {
+        "startDate": "22.10.2023 22:12:34",
+        "endDate": "22.10.2023 22:22:34"
+      },
+      {
+        "startDate": "22.10.2023 22:33:14",
+        "endDate": "22.10.2023 22:35:34"
+      },
+      {
+        "startDate": "22.10.2023 22:38:34",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": null
+      }
+    ],
+    "userId": "bb367131-ec06-3d69-a861-eeca3f9cc88d",
+    "firstName": "Eva",
+    "nickname": "Eva35",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:06:57.622493+03:00"
+  },
+  "02d4563d-5727-c811-b3b7-57a10f6be25a": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:39:38",
+        "endDate": "22.10.2023 21:57:54"
+      },
+      {
+        "startDate": "22.10.2023 21:59:34",
+        "endDate": "22.10.2023 22:06:34"
+      },
+      {
+        "startDate": "22.10.2023 22:06:54",
+        "endDate": "22.10.2023 22:27:54"
+      },
+      {
+        "startDate": "22.10.2023 22:31:14",
+        "endDate": "23.10.2023 23:42:25"
+      },
+      {
+        "startDate": "25.10.2023 0:00:10",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:38",
+        "endDate": null
+      }
+    ],
+    "userId": "02d4563d-5727-c811-b3b7-57a10f6be25a",
+    "firstName": "Marlene",
+    "nickname": "Marlene_Witting",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:02:37.6030498+03:00"
+  },
+  "a807e6f7-ec9c-f8a6-a6e4-43b8f36c78cc": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:34:24",
+        "endDate": "22.10.2023 21:56:54"
+      },
+      {
+        "startDate": "22.10.2023 21:57:14",
+        "endDate": "22.10.2023 22:01:54"
+      },
+      {
+        "startDate": "22.10.2023 22:05:34",
+        "endDate": "22.10.2023 22:05:54"
+      },
+      {
+        "startDate": "22.10.2023 22:09:14",
+        "endDate": "22.10.2023 22:18:34"
+      },
+      {
+        "startDate": "22.10.2023 22:19:54",
+        "endDate": "22.10.2023 22:21:14"
+      },
+      {
+        "startDate": "22.10.2023 22:23:54",
+        "endDate": "22.10.2023 22:26:14"
+      },
+      {
+        "startDate": "22.10.2023 22:27:14",
+        "endDate": "22.10.2023 22:32:54"
+      },
+      {
+        "startDate": "22.10.2023 22:33:14",
+        "endDate": "22.10.2023 22:37:34"
+      },
+      {
+        "startDate": "22.10.2023 22:38:34",
+        "endDate": "22.10.2023 22:39:14"
+      },
+      {
+        "startDate": "23.10.2023 23:42:25",
+        "endDate": "25.10.2023 0:08:34"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 22:11:38"
+      }
+    ],
+    "userId": "a807e6f7-ec9c-f8a6-a6e4-43b8f36c78cc",
+    "firstName": "Hector",
+    "nickname": "Hector.Ankunding",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "e9de6dd1-84e5-9833-59de-8c51008de6a0": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:34:24",
+        "endDate": "22.10.2023 21:39:38"
+      },
+      {
+        "startDate": "22.10.2023 21:54:08",
+        "endDate": "22.10.2023 21:54:34"
+      },
+      {
+        "startDate": "22.10.2023 21:57:14",
+        "endDate": "22.10.2023 21:58:14"
+      },
+      {
+        "startDate": "22.10.2023 21:58:34",
+        "endDate": "22.10.2023 21:58:54"
+      },
+      {
+        "startDate": "22.10.2023 22:00:14",
+        "endDate": "22.10.2023 22:01:54"
+      },
+      {
+        "startDate": "22.10.2023 22:03:54",
+        "endDate": "22.10.2023 22:07:54"
+      },
+      {
+        "startDate": "22.10.2023 22:13:54",
+        "endDate": "22.10.2023 22:14:34"
+      },
+      {
+        "startDate": "22.10.2023 22:15:14",
+        "endDate": "22.10.2023 22:18:54"
+      },
+      {
+        "startDate": "22.10.2023 22:19:54",
+        "endDate": "22.10.2023 22:31:14"
+      },
+      {
+        "startDate": "22.10.2023 22:35:14",
+        "endDate": "22.10.2023 22:38:54"
+      },
+      {
+        "startDate": "22.10.2023 22:39:34",
+        "endDate": "25.10.2023 0:00:10"
+      },
+      {
+        "startDate": "25.10.2023 0:08:34",
+        "endDate": "25.10.2023 0:09:53"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:38",
+        "endDate": null
+      }
+    ],
+    "userId": "e9de6dd1-84e5-9833-59de-8c51008de6a0",
+    "firstName": "Emmett",
+    "nickname": "Emmett82",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:37.5927047+03:00"
+  },
+  "d59e1aae-c9cc-5c17-4458-4f02bdc494d2": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:39:38",
+        "endDate": "22.10.2023 21:55:54"
+      },
+      {
+        "startDate": "22.10.2023 21:56:34",
+        "endDate": "22.10.2023 21:56:54"
+      },
+      {
+        "startDate": "22.10.2023 21:58:54",
+        "endDate": "22.10.2023 22:06:14"
+      },
+      {
+        "startDate": "22.10.2023 22:11:14",
+        "endDate": "22.10.2023 22:21:14"
+      },
+      {
+        "startDate": "22.10.2023 22:22:34",
+        "endDate": "22.10.2023 22:30:34"
+      },
+      {
+        "startDate": "22.10.2023 22:31:14",
+        "endDate": "22.10.2023 22:36:54"
+      },
+      {
+        "startDate": "22.10.2023 22:42:14",
+        "endDate": null
+      }
+    ],
+    "userId": "d59e1aae-c9cc-5c17-4458-4f02bdc494d2",
+    "firstName": "Catherine",
+    "nickname": "Catherine.McCullough",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:17.6393684+03:00"
+  },
+  "acb1c13f-a700-ae85-97fa-daa56573f7bd": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:34:24",
+        "endDate": "22.10.2023 21:56:34"
+      },
+      {
+        "startDate": "22.10.2023 21:57:34",
+        "endDate": "22.10.2023 22:18:54"
+      },
+      {
+        "startDate": "22.10.2023 22:20:54",
+        "endDate": "22.10.2023 22:21:54"
+      },
+      {
+        "startDate": "22.10.2023 22:23:54",
+        "endDate": "22.10.2023 22:35:14"
+      },
+      {
+        "startDate": "22.10.2023 22:39:34",
+        "endDate": "22.10.2023 22:42:54"
+      },
+      {
+        "startDate": "23.10.2023 23:42:25",
+        "endDate": "25.10.2023 0:08:34"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "acb1c13f-a700-ae85-97fa-daa56573f7bd",
+    "firstName": "Dominic",
+    "nickname": "Dominic.Daugherty55",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:37.6569136+03:00"
+  },
+  "2e164e3c-3abd-a835-8e00-a3fa4b1d636e": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:34:24",
+        "endDate": "22.10.2023 21:42:33"
+      },
+      {
+        "startDate": "22.10.2023 21:55:34",
+        "endDate": "22.10.2023 21:57:34"
+      },
+      {
+        "startDate": "22.10.2023 21:59:34",
+        "endDate": "22.10.2023 21:59:54"
+      },
+      {
+        "startDate": "22.10.2023 22:01:54",
+        "endDate": "22.10.2023 22:06:34"
+      },
+      {
+        "startDate": "22.10.2023 22:10:54",
+        "endDate": "22.10.2023 22:18:14"
+      },
+      {
+        "startDate": "22.10.2023 22:19:14",
+        "endDate": "22.10.2023 22:27:54"
+      },
+      {
+        "startDate": "22.10.2023 22:35:14",
+        "endDate": "22.10.2023 22:40:54"
+      },
+      {
+        "startDate": "22.10.2023 22:42:14",
+        "endDate": "25.10.2023 0:00:10"
+      },
+      {
+        "startDate": "25.10.2023 0:08:34",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 22:11:38"
+      }
+    ],
+    "userId": "2e164e3c-3abd-a835-8e00-a3fa4b1d636e",
+    "firstName": "Enrique",
+    "nickname": "Enrique_Vandervort17",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "88885096-1825-640b-1dff-281b668b24e5": {
+    "onlineRelic": [
+      {
+        "startDate": "22.10.2023 21:34:24",
+        "endDate": "22.10.2023 21:39:38"
+      },
+      {
+        "startDate": "22.10.2023 21:42:33",
+        "endDate": "22.10.2023 21:42:54"
+      },
+      {
+        "startDate": "22.10.2023 21:59:54",
+        "endDate": "22.10.2023 22:13:14"
+      },
+      {
+        "startDate": "22.10.2023 22:14:14",
+        "endDate": "22.10.2023 22:17:14"
+      },
+      {
+        "startDate": "22.10.2023 22:22:34",
+        "endDate": "22.10.2023 22:28:34"
+      },
+      {
+        "startDate": "22.10.2023 22:28:54",
+        "endDate": "22.10.2023 22:34:54"
+      },
+      {
+        "startDate": "22.10.2023 22:36:54",
+        "endDate": "22.10.2023 22:41:34"
+      },
+      {
+        "startDate": "23.10.2023 23:42:25",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 22:11:38",
+        "endDate": null
+      }
+    ],
+    "userId": "88885096-1825-640b-1dff-281b668b24e5",
+    "firstName": "Ted",
+    "nickname": "Ted32",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:37.640728+03:00"
+  },
+  "938a6656-0b54-6a9c-76a2-bbfac8f3de81": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "938a6656-0b54-6a9c-76a2-bbfac8f3de81",
+    "firstName": "Karl",
+    "nickname": "Karl94",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:07:37.6265401+03:00"
+  },
+  "398575d0-fd2a-d16a-7345-e6437ee5a25a": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "398575d0-fd2a-d16a-7345-e6437ee5a25a",
+    "firstName": "Herbert",
+    "nickname": "Herbert_Stokes98",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "27c06654-a582-f05c-8824-80c616d65214": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:57",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "27c06654-a582-f05c-8824-80c616d65214",
+    "firstName": "Janis",
+    "nickname": "Janis.Weimann23",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:37.6110637+03:00"
+  },
+  "94c4e3b2-bb87-cb77-e116-5aaa605b23f7": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:57",
+        "endDate": null
+      }
+    ],
+    "userId": "94c4e3b2-bb87-cb77-e116-5aaa605b23f7",
+    "firstName": "Joseph",
+    "nickname": "Joseph.Schuster20",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:57.6124648+03:00"
+  },
+  "5a254c98-a749-ab02-bf62-2f9a4fb1e98a": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "5a254c98-a749-ab02-bf62-2f9a4fb1e98a",
+    "firstName": "Franklin",
+    "nickname": "Franklin63",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "07b7738e-1363-827b-99b2-8acc05bee48b": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "07b7738e-1363-827b-99b2-8acc05bee48b",
+    "firstName": "Curtis",
+    "nickname": "Curtis83",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "58f01a16-272b-ba7e-9511-5d05a13ef3f5": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "58f01a16-272b-ba7e-9511-5d05a13ef3f5",
+    "firstName": "Angelina",
+    "nickname": "Angelina_Ernser39",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:17.6104412+03:00"
+  },
+  "73cec768-e421-0642-1914-3647063324eb": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:30:56",
+        "endDate": "25.10.2023 14:02:47"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "73cec768-e421-0642-1914-3647063324eb",
+    "firstName": "Isaac",
+    "nickname": "Isaac.Kessler",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:57.5943794+03:00"
+  },
+  "d8770289-c958-157a-e213-aa5483e2f39b": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:53",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "d8770289-c958-157a-e213-aa5483e2f39b",
+    "firstName": "Sophia",
+    "nickname": "Sophia6",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "e5cfa313-cbc1-d7b8-4198-b2e2faa61a37": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "e5cfa313-cbc1-d7b8-4198-b2e2faa61a37",
+    "firstName": "Bryan",
+    "nickname": "Bryan.Dare57",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "bdb7a62a-a3a7-394f-48c4-3c8385798a2d": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "bdb7a62a-a3a7-394f-48c4-3c8385798a2d",
+    "firstName": "Gina",
+    "nickname": "Gina49",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:37.6337981+03:00"
+  },
+  "e51c2535-8913-8681-4182-aa7af408e927": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:53",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "e51c2535-8913-8681-4182-aa7af408e927",
+    "firstName": "Hugo",
+    "nickname": "Hugo_Lang",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:56:37.570331+03:00"
+  },
+  "26134998-daf7-9124-f420-4643ac2eceb5": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "26134998-daf7-9124-f420-4643ac2eceb5",
+    "firstName": "Jeff",
+    "nickname": "Jeff60",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:06:17.6181368+03:00"
+  },
+  "0c9b9253-3f4d-407f-4499-19a998cf7b6e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:57",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "0c9b9253-3f4d-407f-4499-19a998cf7b6e",
+    "firstName": "Jennie",
+    "nickname": "Jennie52",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "624cf18a-0df7-4659-7895-c08980dd7ce9": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "624cf18a-0df7-4659-7895-c08980dd7ce9",
+    "firstName": "Tanya",
+    "nickname": "Tanya.Jones",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:17.6526603+03:00"
+  },
+  "21b78533-4b76-e55e-6fbc-d69d0078a29e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:30:56",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "21b78533-4b76-e55e-6fbc-d69d0078a29e",
+    "firstName": "Kristie",
+    "nickname": "Kristie.Cronin42",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:57.6348695+03:00"
+  },
+  "fe2c6cb3-296f-d4a9-16dc-a2c3500b1d98": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 14:01:38"
+      }
+    ],
+    "userId": "fe2c6cb3-296f-d4a9-16dc-a2c3500b1d98",
+    "firstName": "Clara",
+    "nickname": "Clara_Orn",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "32d66fc5-f454-409e-5e95-9fa26ec813cb": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 14:02:24"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "32d66fc5-f454-409e-5e95-9fa26ec813cb",
+    "firstName": "Tara",
+    "nickname": "Tara14",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:03:17.6069364+03:00"
+  },
+  "5ca3c3fc-c842-9f4e-fa1f-028b96e06515": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "5ca3c3fc-c842-9f4e-fa1f-028b96e06515",
+    "firstName": "Toni",
+    "nickname": "Toni69",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:05:17.6128624+03:00"
+  },
+  "914cf3da-34b1-b2fa-60ef-710ea5ee1e34": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "914cf3da-34b1-b2fa-60ef-710ea5ee1e34",
+    "firstName": "Anita",
+    "nickname": "Anita.Mraz",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:57.6429361+03:00"
+  },
+  "df60f3f8-0e13-b64a-76b5-863bae54478e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "df60f3f8-0e13-b64a-76b5-863bae54478e",
+    "firstName": "Patty",
+    "nickname": "Patty.Metz31",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:57.6429368+03:00"
+  },
+  "0d0ac023-746e-5d8e-3229-4b049c62400c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "0d0ac023-746e-5d8e-3229-4b049c62400c",
+    "firstName": "Aaron",
+    "nickname": "Aaron_Gleason20",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "a69de642-dd03-ba60-2241-9952b57463ef": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": null
+      }
+    ],
+    "userId": "a69de642-dd03-ba60-2241-9952b57463ef",
+    "firstName": "Angelica",
+    "nickname": "Angelica_Willms",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:58:17.5766529+03:00"
+  },
+  "ee3cfee1-5c6e-d2e7-77ff-d2695844dac4": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "ee3cfee1-5c6e-d2e7-77ff-d2695844dac4",
+    "firstName": "Joyce",
+    "nickname": "Joyce.Bednar",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "cd9a0c70-c32e-defb-55b0-8014d079ad54": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": null
+      }
+    ],
+    "userId": "cd9a0c70-c32e-defb-55b0-8014d079ad54",
+    "firstName": "Freddie",
+    "nickname": "Freddie.Ondricka",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:58:17.5766535+03:00"
+  },
+  "117256cb-c5dd-8d3e-d75e-c3602957f7ee": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:56",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:57",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "117256cb-c5dd-8d3e-d75e-c3602957f7ee",
+    "firstName": "Marilyn",
+    "nickname": "Marilyn66",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "f4e599ea-6054-4a9d-f446-3a5c07c07c1c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "f4e599ea-6054-4a9d-f446-3a5c07c07c1c",
+    "firstName": "Wilson",
+    "nickname": "Wilson75",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:57.6429385+03:00"
+  },
+  "1fa8819c-1386-dc9b-840b-e7d0dc84f158": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "1fa8819c-1386-dc9b-840b-e7d0dc84f158",
+    "firstName": "Gilbert",
+    "nickname": "Gilbert_Oberbrunner",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:17.6526656+03:00"
+  },
+  "1111011b-50a0-0121-8b39-8d63bfd1f39e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:53"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "1111011b-50a0-0121-8b39-8d63bfd1f39e",
+    "firstName": "Sylvia",
+    "nickname": "Sylvia_McGlynn",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:57.6515386+03:00"
+  },
+  "5b967b97-a906-e22e-a1f4-8a58e05eded4": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:53"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": null
+      }
+    ],
+    "userId": "5b967b97-a906-e22e-a1f4-8a58e05eded4",
+    "firstName": "Darla",
+    "nickname": "Darla46",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:37.6407369+03:00"
+  },
+  "4c9314d8-75cc-24e6-4443-172c2b0b3f87": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "4c9314d8-75cc-24e6-4443-172c2b0b3f87",
+    "firstName": "Alyssa",
+    "nickname": "Alyssa50",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "da0ee7ee-bf4d-b85f-3dc3-f22db8e82c5e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "da0ee7ee-bf4d-b85f-3dc3-f22db8e82c5e",
+    "firstName": "Juanita",
+    "nickname": "Juanita_Langworth",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "9dcfd7a8-1a8a-e410-df25-0111bf54ba96": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:53"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "9dcfd7a8-1a8a-e410-df25-0111bf54ba96",
+    "firstName": "Genevieve",
+    "nickname": "Genevieve60",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:37.6338052+03:00"
+  },
+  "aea19bc4-fa95-63dc-c25e-26f9a1ebb351": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": null
+      }
+    ],
+    "userId": "aea19bc4-fa95-63dc-c25e-26f9a1ebb351",
+    "firstName": "Dewey",
+    "nickname": "Dewey.Gerlach45",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:37.6499364+03:00"
+  },
+  "b3a4e41d-d5e7-23fb-5819-79a9c1d4dbd3": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "b3a4e41d-d5e7-23fb-5819-79a9c1d4dbd3",
+    "firstName": "Hector",
+    "nickname": "Hector.Auer67",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:17.6305645+03:00"
+  },
+  "17717136-8df0-f73c-c5a1-527125e28c6d": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "17717136-8df0-f73c-c5a1-527125e28c6d",
+    "firstName": "Tyler",
+    "nickname": "Tyler_Thompson36",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:03:57.6100349+03:00"
+  },
+  "e1f2d509-a0c9-f79a-177a-7252e4d72a70": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:53"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "e1f2d509-a0c9-f79a-177a-7252e4d72a70",
+    "firstName": "Benny",
+    "nickname": "Benny_Ondricka34",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:05:37.6157113+03:00"
+  },
+  "9ed5c582-546f-2c86-1bde-493e4202c642": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:53",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "9ed5c582-546f-2c86-1bde-493e4202c642",
+    "firstName": "Julia",
+    "nickname": "Julia82",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:57.6124747+03:00"
+  },
+  "d59bffa8-6db8-3872-53bb-13f9218482e3": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 14:02:47",
+        "endDate": null
+      }
+    ],
+    "userId": "d59bffa8-6db8-3872-53bb-13f9218482e3",
+    "firstName": "Victor",
+    "nickname": "Victor_Kuhn",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:17.6305658+03:00"
+  },
+  "61db12a4-b192-25f1-4146-cde57015d27c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 14:02:24"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "61db12a4-b192-25f1-4146-cde57015d27c",
+    "firstName": "Wilfred",
+    "nickname": "Wilfred.Hyatt19",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:02:57.6060465+03:00"
+  },
+  "7e3a6790-e67c-461e-df42-c88ee693c014": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "7e3a6790-e67c-461e-df42-c88ee693c014",
+    "firstName": "Lance",
+    "nickname": "Lance.Swift80",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:17.6104499+03:00"
+  },
+  "47d4a943-13a1-a25e-6217-4825ea091ce0": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 14:02:47",
+        "endDate": null
+      }
+    ],
+    "userId": "47d4a943-13a1-a25e-6217-4825ea091ce0",
+    "firstName": "Zachary",
+    "nickname": "Zachary66",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:06:57.6225064+03:00"
+  },
+  "3ce33e44-e54a-97f7-bed8-360ddc53f0af": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "3ce33e44-e54a-97f7-bed8-360ddc53f0af",
+    "firstName": "Mary",
+    "nickname": "Mary95",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "d1434c7e-c14a-5b85-0e72-0ce74d690ceb": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 14:02:24"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "d1434c7e-c14a-5b85-0e72-0ce74d690ceb",
+    "firstName": "Roman",
+    "nickname": "Roman.Veum",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:17.6305671+03:00"
+  },
+  "4fe0db05-816a-8d2d-fb54-6fc6b8a68135": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "4fe0db05-816a-8d2d-fb54-6fc6b8a68135",
+    "firstName": "Garry",
+    "nickname": "Garry_Rice69",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:57.634878+03:00"
+  },
+  "bb68401c-8516-62e5-52d6-9f8fa8b83f95": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:30:56",
+        "endDate": null
+      }
+    ],
+    "userId": "bb68401c-8516-62e5-52d6-9f8fa8b83f95",
+    "firstName": "Ana",
+    "nickname": "Ana61",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:37.5927216+03:00"
+  },
+  "241fe2e5-101d-c8be-72c0-826771165ac2": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": null
+      }
+    ],
+    "userId": "241fe2e5-101d-c8be-72c0-826771165ac2",
+    "firstName": "Bruce",
+    "nickname": "Bruce_Rice",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:57.5943864+03:00"
+  },
+  "d155a2ae-d536-9917-e16f-8f42b81692da": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "d155a2ae-d536-9917-e16f-8f42b81692da",
+    "firstName": "Nelson",
+    "nickname": "Nelson.Stamm",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:56:57.5706734+03:00"
+  },
+  "f2ce4750-b7e5-f4b3-b9a8-569839d989c9": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "f2ce4750-b7e5-f4b3-b9a8-569839d989c9",
+    "firstName": "Geneva",
+    "nickname": "Geneva3",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:37.6569259+03:00"
+  },
+  "0e5ab843-b051-4f79-d17c-45722f45341b": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": null
+      }
+    ],
+    "userId": "0e5ab843-b051-4f79-d17c-45722f45341b",
+    "firstName": "Eleanor",
+    "nickname": "Eleanor_Dickinson",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:17.6476784+03:00"
+  },
+  "d5925ab3-def4-0bfc-5498-407b46c1292f": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "d5925ab3-def4-0bfc-5498-407b46c1292f",
+    "firstName": "Hazel",
+    "nickname": "Hazel.Skiles",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:52:57.5470376+03:00"
+  },
+  "d0918fee-d7b8-0d7a-82be-7fe8a78f8dd9": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:53"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 14:02:47"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "d0918fee-d7b8-0d7a-82be-7fe8a78f8dd9",
+    "firstName": "Crystal",
+    "nickname": "Crystal83",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:17.6476792+03:00"
+  },
+  "4e83b6ed-1ee8-57b8-7668-18c41b230f7f": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": null
+      }
+    ],
+    "userId": "4e83b6ed-1ee8-57b8-7668-18c41b230f7f",
+    "firstName": "Morris",
+    "nickname": "Morris.Pollich94",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:56:17.569618+03:00"
+  },
+  "7a3ea1bb-4f68-241a-4a9c-fcd53d50bc6c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "7a3ea1bb-4f68-241a-4a9c-fcd53d50bc6c",
+    "firstName": "Myrtle",
+    "nickname": "Myrtle.Kreiger",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:06:17.6181459+03:00"
+  },
+  "e1aa6c11-199f-6a22-c5a7-aa43b16492a3": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "e1aa6c11-199f-6a22-c5a7-aa43b16492a3",
+    "firstName": "Melanie",
+    "nickname": "Melanie75",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:37.592725+03:00"
+  },
+  "6f28d022-5a53-4546-1013-96cff19acf7a": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "6f28d022-5a53-4546-1013-96cff19acf7a",
+    "firstName": "Ross",
+    "nickname": "Ross46",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:17.6526716+03:00"
+  },
+  "38d9269c-7147-070d-8c4c-91568098027d": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "38d9269c-7147-070d-8c4c-91568098027d",
+    "firstName": "Bennie",
+    "nickname": "Bennie63",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:47:37.5225834+03:00"
+  },
+  "5ed89705-d3c6-6dea-880c-82ad5c185285": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:30:56",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "5ed89705-d3c6-6dea-880c-82ad5c185285",
+    "firstName": "Luz",
+    "nickname": "Luz.Veum81",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:37.5927261+03:00"
+  },
+  "2588393e-9822-9948-025a-a2cbfe1215df": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "2588393e-9822-9948-025a-a2cbfe1215df",
+    "firstName": "Marvin",
+    "nickname": "Marvin.Beer51",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:02:57.6060522+03:00"
+  },
+  "70f55abd-ce18-d7f7-8a21-b4e9bdc8eb22": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "70f55abd-ce18-d7f7-8a21-b4e9bdc8eb22",
+    "firstName": "Megan",
+    "nickname": "Megan17",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:37.5927275+03:00"
+  },
+  "485196af-f2a9-0468-e99c-08dc9fafe15f": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": null
+      }
+    ],
+    "userId": "485196af-f2a9-0468-e99c-08dc9fafe15f",
+    "firstName": "Lorena",
+    "nickname": "Lorena_Mitchell32",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:53:57.55724+03:00"
+  },
+  "3e40b9f5-29e4-e856-f754-d11439e35e97": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "3e40b9f5-29e4-e856-f754-d11439e35e97",
+    "firstName": "Sammy",
+    "nickname": "Sammy54",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "51c3889b-3676-4ff4-c3c1-87b120a3c893": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "51c3889b-3676-4ff4-c3c1-87b120a3c893",
+    "firstName": "Jeanne",
+    "nickname": "Jeanne_Grady90",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "c2b86cf1-ed54-b757-d743-fb0fe74c0c09": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:53",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": null
+      }
+    ],
+    "userId": "c2b86cf1-ed54-b757-d743-fb0fe74c0c09",
+    "firstName": "Rex",
+    "nickname": "Rex.OConner69",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:37.6407517+03:00"
+  },
+  "b33edad1-3ee3-a1e1-e47a-9fe4e95de43d": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:57",
+        "endDate": "25.10.2023 14:01:38"
+      }
+    ],
+    "userId": "b33edad1-3ee3-a1e1-e47a-9fe4e95de43d",
+    "firstName": "Pat",
+    "nickname": "Pat.Abbott",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "e883bd10-c2ab-1f4b-61e8-ae2e29a32097": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "e883bd10-c2ab-1f4b-61e8-ae2e29a32097",
+    "firstName": "Shannon",
+    "nickname": "Shannon18",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:03:37.6080969+03:00"
+  },
+  "054ac0ea-4000-c20d-7a20-a7d4e67a5a63": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:30:56",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "054ac0ea-4000-c20d-7a20-a7d4e67a5a63",
+    "firstName": "Penny",
+    "nickname": "Penny51",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "bb629326-57e3-69bc-e8a3-5a59e8a09da3": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:53"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "bb629326-57e3-69bc-e8a3-5a59e8a09da3",
+    "firstName": "Cody",
+    "nickname": "Cody10",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:17.5905644+03:00"
+  },
+  "e3827f0c-4494-7b38-2b1d-20f076896821": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 14:02:24",
+        "endDate": null
+      }
+    ],
+    "userId": "e3827f0c-4494-7b38-2b1d-20f076896821",
+    "firstName": "Paulette",
+    "nickname": "Paulette.Mohr",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:57.6348834+03:00"
+  },
+  "b9cd6eac-1ff3-fa09-703e-e09241c4b33c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "b9cd6eac-1ff3-fa09-703e-e09241c4b33c",
+    "firstName": "Franklin",
+    "nickname": "Franklin.Strosin41",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "35b72bf8-667b-e8be-be9c-2c05cbdd3d9c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:57",
+        "endDate": "25.10.2023 14:02:47"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "35b72bf8-667b-e8be-be9c-2c05cbdd3d9c",
+    "firstName": "Lora",
+    "nickname": "Lora.Denesik40",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:01:57.5998494+03:00"
+  },
+  "b7192b6d-89ed-2aa7-8b1d-0a2784487d9d": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 14:02:24"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "b7192b6d-89ed-2aa7-8b1d-0a2784487d9d",
+    "firstName": "Jeannette",
+    "nickname": "Jeannette_Homenick",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:42:37.4951004+03:00"
+  },
+  "c11c0395-46cd-cd5e-1fd4-8aa418bd8e48": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 14:02:24"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "c11c0395-46cd-cd5e-1fd4-8aa418bd8e48",
+    "firstName": "Gerard",
+    "nickname": "Gerard_Pfannerstill",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:17.6526814+03:00"
+  },
+  "e9aee328-f08a-28e0-ac15-c6227152fa91": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "e9aee328-f08a-28e0-ac15-c6227152fa91",
+    "firstName": "Jackie",
+    "nickname": "Jackie_Maggio52",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:57:57.5753195+03:00"
+  },
+  "b173c5bd-f2bb-f377-0aab-bafe25c1d1ba": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "b173c5bd-f2bb-f377-0aab-bafe25c1d1ba",
+    "firstName": "Bryant",
+    "nickname": "Bryant87",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:17.6104561+03:00"
+  },
+  "0b40ec3e-fd86-7c99-d394-df86824ba9b4": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "0b40ec3e-fd86-7c99-d394-df86824ba9b4",
+    "firstName": "Claudia",
+    "nickname": "Claudia_Romaguera",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:37.6499593+03:00"
+  },
+  "35af28c2-1784-cff0-63cb-7cc8ba85d863": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": null
+      }
+    ],
+    "userId": "35af28c2-1784-cff0-63cb-7cc8ba85d863",
+    "firstName": "Kent",
+    "nickname": "Kent_Marvin17",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:07:37.6265564+03:00"
+  },
+  "88eaa5f5-27be-31e2-c806-25938d477ebc": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "88eaa5f5-27be-31e2-c806-25938d477ebc",
+    "firstName": "Dave",
+    "nickname": "Dave6",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:03:37.6080997+03:00"
+  },
+  "1fee144f-5ea5-7322-0396-0bb531a641c4": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:53",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": null
+      }
+    ],
+    "userId": "1fee144f-5ea5-7322-0396-0bb531a641c4",
+    "firstName": "Lynne",
+    "nickname": "Lynne.Moore",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:57.6515502+03:00"
+  },
+  "943504fe-9b36-62d7-4e4d-e26705ba8090": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:02:47",
+        "endDate": null
+      }
+    ],
+    "userId": "943504fe-9b36-62d7-4e4d-e26705ba8090",
+    "firstName": "Holly",
+    "nickname": "Holly.Schmeler29",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:03:17.6069504+03:00"
+  },
+  "f24a0837-d80e-b392-7a55-d996403f3f4b": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "f24a0837-d80e-b392-7a55-d996403f3f4b",
+    "firstName": "Adrian",
+    "nickname": "Adrian83",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "c6216c7f-9515-5983-9829-a48d186adac9": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": null
+      }
+    ],
+    "userId": "c6216c7f-9515-5983-9829-a48d186adac9",
+    "firstName": "Cornelius",
+    "nickname": "Cornelius8",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:17.630574+03:00"
+  },
+  "3f1e276e-73b6-5dbc-4709-3c77199a16f0": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": null
+      }
+    ],
+    "userId": "3f1e276e-73b6-5dbc-4709-3c77199a16f0",
+    "firstName": "Zachary",
+    "nickname": "Zachary_Feeney13",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:57.634886+03:00"
+  },
+  "f98d2104-b92e-4030-6efb-c4479a39d630": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:57",
+        "endDate": "25.10.2023 14:01:38"
+      }
+    ],
+    "userId": "f98d2104-b92e-4030-6efb-c4479a39d630",
+    "firstName": "Karen",
+    "nickname": "Karen73",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "0ee9b932-8372-e164-f953-4cf04f97022b": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "0ee9b932-8372-e164-f953-4cf04f97022b",
+    "firstName": "Louise",
+    "nickname": "Louise82",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:07:17.6235759+03:00"
+  },
+  "dfe29042-5a63-f124-0873-6d72f9474c44": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "dfe29042-5a63-f124-0873-6d72f9474c44",
+    "firstName": "Lucas",
+    "nickname": "Lucas_Wilkinson",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:37.6569319+03:00"
+  },
+  "3d8b31f3-75d8-099d-fed9-0290670e1090": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "3d8b31f3-75d8-099d-fed9-0290670e1090",
+    "firstName": "Naomi",
+    "nickname": "Naomi78",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "d8bc6f98-c444-ddb0-af4b-22e7d49f61f5": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "d8bc6f98-c444-ddb0-af4b-22e7d49f61f5",
+    "firstName": "Myron",
+    "nickname": "Myron.Tromp37",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:01:17.5974362+03:00"
+  },
+  "8453059c-61ce-47a1-d158-7b82ce5e90d4": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "8453059c-61ce-47a1-d158-7b82ce5e90d4",
+    "firstName": "Roland",
+    "nickname": "Roland.Heller67",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "54ee4caf-10c6-e45f-2773-725e91dc86c7": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "54ee4caf-10c6-e45f-2773-725e91dc86c7",
+    "firstName": "Julio",
+    "nickname": "Julio_Weber",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "01ffbd3b-7f1a-6969-710f-e46380c18930": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "01ffbd3b-7f1a-6969-710f-e46380c18930",
+    "firstName": "Kristie",
+    "nickname": "Kristie_Rowe28",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:58:57.5799772+03:00"
+  },
+  "3c5725db-60e3-f710-d546-709ed23dfa72": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "3c5725db-60e3-f710-d546-709ed23dfa72",
+    "firstName": "Joan",
+    "nickname": "Joan_Krajcik60",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:59:17.5820105+03:00"
+  },
+  "72241473-5ef4-9f17-0526-b50e55e38ab8": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:20"
+      },
+      {
+        "startDate": "25.10.2023 11:30:56",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "72241473-5ef4-9f17-0526-b50e55e38ab8",
+    "firstName": "Denise",
+    "nickname": "Denise_Bergstrom89",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:17.6477009+03:00"
+  },
+  "f12520ba-1579-e16d-2e16-b72436e1a48c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 14:01:38"
+      }
+    ],
+    "userId": "f12520ba-1579-e16d-2e16-b72436e1a48c",
+    "firstName": "Rose",
+    "nickname": "Rose95",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "f9d7c5a7-a101-6c9e-2ad5-e4f43f328206": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": null
+      }
+    ],
+    "userId": "f9d7c5a7-a101-6c9e-2ad5-e4f43f328206",
+    "firstName": "Melanie",
+    "nickname": "Melanie.Beer19",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:37.6569336+03:00"
+  },
+  "916c868e-1535-c340-3344-2bc43ef4f21c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 14:01:38"
+      }
+    ],
+    "userId": "916c868e-1535-c340-3344-2bc43ef4f21c",
+    "firstName": "Brandy",
+    "nickname": "Brandy14",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "77850dbf-2807-5b3b-0a98-28f06067a045": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "77850dbf-2807-5b3b-0a98-28f06067a045",
+    "firstName": "Lucia",
+    "nickname": "Lucia.Gutmann63",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:37.6499628+03:00"
+  },
+  "7e5eff58-40fd-ad6e-0fc5-db66c1e4ce41": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 14:02:24",
+        "endDate": null
+      }
+    ],
+    "userId": "7e5eff58-40fd-ad6e-0fc5-db66c1e4ce41",
+    "firstName": "Cathy",
+    "nickname": "Cathy.Schuster",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:06:17.6181646+03:00"
+  },
+  "aef99e61-cb56-6715-fa26-1b38c398d835": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "aef99e61-cb56-6715-fa26-1b38c398d835",
+    "firstName": "Curtis",
+    "nickname": "Curtis84",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:17.5905696+03:00"
+  },
+  "efba94c8-332e-bc14-14a6-4667b056eeec": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:20",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "efba94c8-332e-bc14-14a6-4667b056eeec",
+    "firstName": "Isaac",
+    "nickname": "Isaac_Halvorson",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "e82a42da-07fb-7e8a-b679-d81c846b56f3": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "e82a42da-07fb-7e8a-b679-d81c846b56f3",
+    "firstName": "Freda",
+    "nickname": "Freda92",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:06:57.6225167+03:00"
+  },
+  "2e149b90-50dd-6f76-090a-11ea8e86846e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:54",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "2e149b90-50dd-6f76-090a-11ea8e86846e",
+    "firstName": "Lucas",
+    "nickname": "Lucas.OHara67",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "e41520ac-8c43-5242-903d-df681fcb85c2": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "e41520ac-8c43-5242-903d-df681fcb85c2",
+    "firstName": "Winston",
+    "nickname": "Winston85",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "b403ed52-6abe-a9e7-dc60-61fa55084eba": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "b403ed52-6abe-a9e7-dc60-61fa55084eba",
+    "firstName": "Tiffany",
+    "nickname": "Tiffany77",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:37.6407596+03:00"
+  },
+  "d4dc22bd-c4e6-03ae-0ed0-c715f28cefe0": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:54",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "d4dc22bd-c4e6-03ae-0ed0-c715f28cefe0",
+    "firstName": "Geoffrey",
+    "nickname": "Geoffrey38",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "c84ce094-aa23-9d0d-bc79-433b7f19a59b": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "c84ce094-aa23-9d0d-bc79-433b7f19a59b",
+    "firstName": "Lucia",
+    "nickname": "Lucia_Davis",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:37.6407605+03:00"
+  },
+  "fb94ada2-291a-259d-ea71-d3e2a01a4a63": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "fb94ada2-291a-259d-ea71-d3e2a01a4a63",
+    "firstName": "Jamie",
+    "nickname": "Jamie.Treutel",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:37.6338182+03:00"
+  },
+  "df05d2bd-b2a1-67a5-4dd6-a5cd9bbf03b2": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": null
+      }
+    ],
+    "userId": "df05d2bd-b2a1-67a5-4dd6-a5cd9bbf03b2",
+    "firstName": "Tyrone",
+    "nickname": "Tyrone_Jakubowski",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:02:57.6060648+03:00"
+  },
+  "fd2abc01-7b6f-a376-e0cc-c9b5f178fc5c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:56",
+        "endDate": "25.10.2023 11:44:29"
+      }
+    ],
+    "userId": "fd2abc01-7b6f-a376-e0cc-c9b5f178fc5c",
+    "firstName": "Ora",
+    "nickname": "Ora.Jacobs",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "69a78e5e-e43e-90fa-a035-6f73e74f147e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": null
+      }
+    ],
+    "userId": "69a78e5e-e43e-90fa-a035-6f73e74f147e",
+    "firstName": "Opal",
+    "nickname": "Opal_Witting1",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:07:37.6265627+03:00"
+  },
+  "079d7d0e-7af5-35e1-9bfa-e99ec76c1fcd": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:21"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": null
+      }
+    ],
+    "userId": "079d7d0e-7af5-35e1-9bfa-e99ec76c1fcd",
+    "firstName": "Cynthia",
+    "nickname": "Cynthia92",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:55:37.5671054+03:00"
+  },
+  "d7bca052-9a80-eaec-ea67-e3f97ea555d5": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 14:02:24"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "d7bca052-9a80-eaec-ea67-e3f97ea555d5",
+    "firstName": "Christian",
+    "nickname": "Christian_Ebert17",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:57.6515555+03:00"
+  },
+  "24af7fa4-ed50-16a6-9980-b3fc911e42ce": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 14:02:24",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "24af7fa4-ed50-16a6-9980-b3fc911e42ce",
+    "firstName": "Taylor",
+    "nickname": "Taylor_Kovacek",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "14f08649-f6b7-d553-d082-186d048a4756": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": null
+      }
+    ],
+    "userId": "14f08649-f6b7-d553-d082-186d048a4756",
+    "firstName": "Minnie",
+    "nickname": "Minnie40",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:02:17.6007737+03:00"
+  },
+  "0d2b6783-aa54-e936-898c-2a96572fdcc4": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "0d2b6783-aa54-e936-898c-2a96572fdcc4",
+    "firstName": "Neil",
+    "nickname": "Neil_Reinger",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "595d2651-9e56-db1e-ebdc-05f1a7cb774a": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "595d2651-9e56-db1e-ebdc-05f1a7cb774a",
+    "firstName": "Eileen",
+    "nickname": "Eileen99",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "151f146b-8a46-2936-b998-192bcbde348c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:57",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "151f146b-8a46-2936-b998-192bcbde348c",
+    "firstName": "Bertha",
+    "nickname": "Bertha70",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:37.5927537+03:00"
+  },
+  "89729512-f85d-22fa-ed62-48ec69f9f7e5": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:21"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 14:02:24",
+        "endDate": "25.10.2023 14:02:47"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "89729512-f85d-22fa-ed62-48ec69f9f7e5",
+    "firstName": "Milton",
+    "nickname": "Milton_Hettinger",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:37.6407632+03:00"
+  },
+  "2b9640eb-2147-c2c2-d9b7-b0c757b5a45e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "2b9640eb-2147-c2c2-d9b7-b0c757b5a45e",
+    "firstName": "Jimmie",
+    "nickname": "Jimmie.Steuber31",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:37.6338202+03:00"
+  },
+  "ae67ad8f-0a3c-68c9-dbd4-b0b90e5ca351": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "ae67ad8f-0a3c-68c9-dbd4-b0b90e5ca351",
+    "firstName": "Willis",
+    "nickname": "Willis98",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:02:17.6007766+03:00"
+  },
+  "a37da4d3-81dd-fd14-e3ac-38971291f1dd": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 14:02:24",
+        "endDate": null
+      }
+    ],
+    "userId": "a37da4d3-81dd-fd14-e3ac-38971291f1dd",
+    "firstName": "Nelson",
+    "nickname": "Nelson.Hegmann37",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:43:17.5007405+03:00"
+  },
+  "1e9951a6-19ec-dc7b-6013-60c4f751878a": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": null
+      }
+    ],
+    "userId": "1e9951a6-19ec-dc7b-6013-60c4f751878a",
+    "firstName": "Lester",
+    "nickname": "Lester.Watsica42",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:37.6569378+03:00"
+  },
+  "14b36c6b-1d9f-aa7e-ac3f-4612a44b705a": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": null
+      }
+    ],
+    "userId": "14b36c6b-1d9f-aa7e-ac3f-4612a44b705a",
+    "firstName": "Johnnie",
+    "nickname": "Johnnie69",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:57.6429583+03:00"
+  },
+  "97c1c38b-1cc9-34d4-2485-f571c2a55876": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:57",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "97c1c38b-1cc9-34d4-2485-f571c2a55876",
+    "firstName": "Lewis",
+    "nickname": "Lewis94",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "2bc79786-9646-1114-aa37-f20dc83fd859": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 14:02:24",
+        "endDate": null
+      }
+    ],
+    "userId": "2bc79786-9646-1114-aa37-f20dc83fd859",
+    "firstName": "Eloise",
+    "nickname": "Eloise_Walsh",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:37.6110869+03:00"
+  },
+  "e688f54c-c299-877a-fd74-f5792a42ddee": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "e688f54c-c299-877a-fd74-f5792a42ddee",
+    "firstName": "Erin",
+    "nickname": "Erin_Buckridge",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "52073576-3960-10ac-fbad-82d2427d13d3": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "52073576-3960-10ac-fbad-82d2427d13d3",
+    "firstName": "Eleanor",
+    "nickname": "Eleanor_Kuhic",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:01:37.5989675+03:00"
+  },
+  "9b10e417-a4e1-50ff-ec21-06765bee76f2": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:21"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "9b10e417-a4e1-50ff-ec21-06765bee76f2",
+    "firstName": "Carla",
+    "nickname": "Carla_Langworth3",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "97d139ea-26b3-fcda-d640-44b64456ccbd": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "97d139ea-26b3-fcda-d640-44b64456ccbd",
+    "firstName": "Hope",
+    "nickname": "Hope.McClure",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:37.6569393+03:00"
+  },
+  "2c3705a7-62ca-d3d7-8230-dbad67e52c95": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "2c3705a7-62ca-d3d7-8230-dbad67e52c95",
+    "firstName": "Rene",
+    "nickname": "Rene_Huel91",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:03:57.610053+03:00"
+  },
+  "185cc8e9-b768-f15d-267e-7b78e2006135": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "185cc8e9-b768-f15d-267e-7b78e2006135",
+    "firstName": "Kyle",
+    "nickname": "Kyle41",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:05:57.6171462+03:00"
+  },
+  "e44a4e81-0947-0d1c-f35b-229b91c8321e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:54",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:02:24",
+        "endDate": null
+      }
+    ],
+    "userId": "e44a4e81-0947-0d1c-f35b-229b91c8321e",
+    "firstName": "Bradley",
+    "nickname": "Bradley55",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:57.6429608+03:00"
+  },
+  "d9f23499-7098-d7e0-da1c-345542754055": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:54",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "d9f23499-7098-d7e0-da1c-345542754055",
+    "firstName": "Roderick",
+    "nickname": "Roderick.Walsh34",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:17.5905752+03:00"
+  },
+  "a7cb884a-46aa-f387-3ed5-8441e99e0047": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": null
+      }
+    ],
+    "userId": "a7cb884a-46aa-f387-3ed5-8441e99e0047",
+    "firstName": "Victoria",
+    "nickname": "Victoria.Christiansen",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:57.6515594+03:00"
+  },
+  "f12a7fe6-5220-3bef-52b2-f8d7f4c8c6cb": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "f12a7fe6-5220-3bef-52b2-f8d7f4c8c6cb",
+    "firstName": "Shane",
+    "nickname": "Shane_Jaskolski",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:37.64997+03:00"
+  },
+  "5f0f58ae-55cb-9d71-358d-3151aa67e9f2": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "5f0f58ae-55cb-9d71-358d-3151aa67e9f2",
+    "firstName": "Gary",
+    "nickname": "Gary_Robel",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:37.6499706+03:00"
+  },
+  "9b519c89-e2f8-b3ab-8a20-fa9f4f5c174f": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "9b519c89-e2f8-b3ab-8a20-fa9f4f5c174f",
+    "firstName": "Tanya",
+    "nickname": "Tanya.Marks",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:17.6305845+03:00"
+  },
+  "34bfc48f-db27-0eaf-f2b0-658a2de5a231": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:53:57"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "34bfc48f-db27-0eaf-f2b0-658a2de5a231",
+    "firstName": "Darlene",
+    "nickname": "Darlene_Wisozk58",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:57.6124924+03:00"
+  },
+  "edcef8a6-5d10-cb8b-6126-9279d981bf3c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:54",
+        "endDate": "25.10.2023 11:30:56"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:57",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "edcef8a6-5d10-cb8b-6126-9279d981bf3c",
+    "firstName": "Juanita",
+    "nickname": "Juanita.Bartell",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:17.6393979+03:00"
+  },
+  "b68975dd-a0ee-c293-02a5-ee1c2cafec1f": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:54",
+        "endDate": "25.10.2023 11:30:21"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": null
+      }
+    ],
+    "userId": "b68975dd-a0ee-c293-02a5-ee1c2cafec1f",
+    "firstName": "Beatrice",
+    "nickname": "Beatrice.Schaden",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:17.6477088+03:00"
+  },
+  "b0ea7742-5ad5-5523-a01a-ca3f8efddfa3": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": null
+      }
+    ],
+    "userId": "b0ea7742-5ad5-5523-a01a-ca3f8efddfa3",
+    "firstName": "Tyrone",
+    "nickname": "Tyrone.Simonis",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:17.6526947+03:00"
+  },
+  "d72868dc-c389-a87d-741f-39b3b623f4d6": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 14:02:47"
+      }
+    ],
+    "userId": "d72868dc-c389-a87d-741f-39b3b623f4d6",
+    "firstName": "Megan",
+    "nickname": "Megan_Wilderman",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "824b494c-8053-1fb7-081d-98eb1c565165": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:21"
+      },
+      {
+        "startDate": "25.10.2023 11:30:57",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "824b494c-8053-1fb7-081d-98eb1c565165",
+    "firstName": "Frankie",
+    "nickname": "Frankie.Abernathy17",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:46:37.5148722+03:00"
+  },
+  "18e50e78-692a-9adb-3d8f-4e1219e4f952": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "18e50e78-692a-9adb-3d8f-4e1219e4f952",
+    "firstName": "Lamar",
+    "nickname": "Lamar_Monahan83",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:03:57.6100556+03:00"
+  },
+  "7a119026-6178-f91e-113a-396dba46a9f7": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:57"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:58",
+        "endDate": null
+      }
+    ],
+    "userId": "7a119026-6178-f91e-113a-396dba46a9f7",
+    "firstName": "Dana",
+    "nickname": "Dana51",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:58:57.5799915+03:00"
+  },
+  "781953a8-00a3-b559-1907-08e84ae1a67f": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:30:21"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": null
+      }
+    ],
+    "userId": "781953a8-00a3-b559-1907-08e84ae1a67f",
+    "firstName": "Glen",
+    "nickname": "Glen_Runolfsdottir71",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:17.6477101+03:00"
+  },
+  "57ed0d03-b1a3-f6ff-0fa3-a0d5b167606a": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 14:02:24"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "57ed0d03-b1a3-f6ff-0fa3-a0d5b167606a",
+    "firstName": "Edna",
+    "nickname": "Edna_Wyman",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:37.6407697+03:00"
+  },
+  "3646747e-9e07-4672-aa48-72bffcf4f0de": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:57"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:53:58"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "3646747e-9e07-4672-aa48-72bffcf4f0de",
+    "firstName": "Gilbert",
+    "nickname": "Gilbert.Mante",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:56:17.5696618+03:00"
+  },
+  "8d5fc3a9-1073-77bd-b5f3-c796349a8d92": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:58",
+        "endDate": null
+      }
+    ],
+    "userId": "8d5fc3a9-1073-77bd-b5f3-c796349a8d92",
+    "firstName": "Ellis",
+    "nickname": "Ellis_Grant20",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:37.6110924+03:00"
+  },
+  "1afe437f-4b86-f481-c7db-173b8df0527e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:30:21"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": null
+      }
+    ],
+    "userId": "1afe437f-4b86-f481-c7db-173b8df0527e",
+    "firstName": "Alice",
+    "nickname": "Alice_Homenick",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:05:57.617152+03:00"
+  },
+  "f5ee305f-ea2f-7794-154b-dd5408a526fc": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "f5ee305f-ea2f-7794-154b-dd5408a526fc",
+    "firstName": "Elisa",
+    "nickname": "Elisa21",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:06:57.6225268+03:00"
+  },
+  "46318930-a133-a469-5acb-107d6d5139b9": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "46318930-a133-a469-5acb-107d6d5139b9",
+    "firstName": "Felipe",
+    "nickname": "Felipe88",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "1860c0e5-668c-c890-0d08-375e3d05b95d": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "1860c0e5-668c-c890-0d08-375e3d05b95d",
+    "firstName": "Sheryl",
+    "nickname": "Sheryl.Glover8",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:02:37.603084+03:00"
+  },
+  "0bdadb0c-4a36-db04-de1d-0ca161ef2197": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": null
+      }
+    ],
+    "userId": "0bdadb0c-4a36-db04-de1d-0ca161ef2197",
+    "firstName": "Ismael",
+    "nickname": "Ismael60",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:57.6124954+03:00"
+  },
+  "da1fa527-21b1-3452-f249-e2abd5493af6": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "da1fa527-21b1-3452-f249-e2abd5493af6",
+    "firstName": "Noah",
+    "nickname": "Noah.Wuckert",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:17.6477115+03:00"
+  },
+  "92861edb-73fc-f858-81b1-905977b76d05": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:54",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "92861edb-73fc-f858-81b1-905977b76d05",
+    "firstName": "Marco",
+    "nickname": "Marco.Aufderhar",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:54:17.5579471+03:00"
+  },
+  "51996f21-e3ac-1f3a-3760-97444c2a025c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": null
+      }
+    ],
+    "userId": "51996f21-e3ac-1f3a-3760-97444c2a025c",
+    "firstName": "Isaac",
+    "nickname": "Isaac17",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:37.6407716+03:00"
+  },
+  "bc71ad48-fc31-e86d-cadb-f3ccaad60bbe": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": null
+      }
+    ],
+    "userId": "bc71ad48-fc31-e86d-cadb-f3ccaad60bbe",
+    "firstName": "Monique",
+    "nickname": "Monique.Carter",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:57.6515641+03:00"
+  },
+  "0065b4a9-d034-2623-b530-d50dc24471e7": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": null
+      }
+    ],
+    "userId": "0065b4a9-d034-2623-b530-d50dc24471e7",
+    "firstName": "Brendan",
+    "nickname": "Brendan.Boyle23",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:37.6569454+03:00"
+  },
+  "39a28b40-dde6-84ec-c96e-dacc075effcb": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 13:53:58"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "39a28b40-dde6-84ec-c96e-dacc075effcb",
+    "firstName": "Seth",
+    "nickname": "Seth60",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "bfa1183a-a225-c292-79ba-a519fa4d6655": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "bfa1183a-a225-c292-79ba-a519fa4d6655",
+    "firstName": "Julio",
+    "nickname": "Julio3",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:07:57.6291637+03:00"
+  },
+  "8e993ea0-a5d4-428b-e61b-df78e5215ccc": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:21"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "8e993ea0-a5d4-428b-e61b-df78e5215ccc",
+    "firstName": "Marsha",
+    "nickname": "Marsha.Pouros",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:37.6569464+03:00"
+  },
+  "abca8f57-84a5-cdce-344f-a34ff2cf28f1": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:21"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "abca8f57-84a5-cdce-344f-a34ff2cf28f1",
+    "firstName": "Dawn",
+    "nickname": "Dawn.Littel",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "86a100da-5136-297e-44e6-9f3c47d5a0c5": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:58",
+        "endDate": null
+      }
+    ],
+    "userId": "86a100da-5136-297e-44e6-9f3c47d5a0c5",
+    "firstName": "Rickey",
+    "nickname": "Rickey90",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:17.6477131+03:00"
+  },
+  "e3ae5e2d-2d51-01ab-1ce4-d52a32b0a5b7": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 14:01:38"
+      }
+    ],
+    "userId": "e3ae5e2d-2d51-01ab-1ce4-d52a32b0a5b7",
+    "firstName": "Jonathon",
+    "nickname": "Jonathon_McDermott15",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "db898b6b-2815-ae74-6b12-d3793a01eb27": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 13:53:58"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": "25.10.2023 14:02:24"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "db898b6b-2815-ae74-6b12-d3793a01eb27",
+    "firstName": "Sean",
+    "nickname": "Sean46",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:07:57.6291649+03:00"
+  },
+  "6d7dd5f4-f937-80f2-78fd-14712c774265": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "6d7dd5f4-f937-80f2-78fd-14712c774265",
+    "firstName": "Dale",
+    "nickname": "Dale71",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:06:37.6221102+03:00"
+  },
+  "d38f6a0c-86c0-b52d-c66b-e5bd1eb1ea26": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 14:02:24"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "d38f6a0c-86c0-b52d-c66b-e5bd1eb1ea26",
+    "firstName": "Ramon",
+    "nickname": "Ramon_Ziemann",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:06:57.6225299+03:00"
+  },
+  "51639136-f5bf-86a9-be9f-eb5d430b2ba8": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "51639136-f5bf-86a9-be9f-eb5d430b2ba8",
+    "firstName": "Dianna",
+    "nickname": "Dianna_Jast",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "24d29b7d-83e8-a997-f89f-5e3c94efefd1": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:58",
+        "endDate": "25.10.2023 14:02:47"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "24d29b7d-83e8-a997-f89f-5e3c94efefd1",
+    "firstName": "Lynette",
+    "nickname": "Lynette.Muller",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:06:57.6225306+03:00"
+  },
+  "ecd06eea-5571-e0a1-7b7a-a529b9022384": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "ecd06eea-5571-e0a1-7b7a-a529b9022384",
+    "firstName": "Raquel",
+    "nickname": "Raquel.McGlynn",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:37.5927631+03:00"
+  },
+  "09524dfa-ffb9-3468-c4dd-83a4b4906d60": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:09:54",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 13:53:58"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "09524dfa-ffb9-3468-c4dd-83a4b4906d60",
+    "firstName": "Kristie",
+    "nickname": "Kristie.OHara5",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:01:17.5974617+03:00"
+  },
+  "513c843c-c7c1-099a-cda7-01a92cb7cd50": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "513c843c-c7c1-099a-cda7-01a92cb7cd50",
+    "firstName": "Glenda",
+    "nickname": "Glenda_Kshlerin66",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "a7e0b53c-cb47-f9a5-4eb4-5dae0a61c7db": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "a7e0b53c-cb47-f9a5-4eb4-5dae0a61c7db",
+    "firstName": "Jason",
+    "nickname": "Jason_Wilderman24",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:57.6349019+03:00"
+  },
+  "8c417d9d-b13f-f070-bf07-1fd9c768126f": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": null
+      }
+    ],
+    "userId": "8c417d9d-b13f-f070-bf07-1fd9c768126f",
+    "firstName": "Lora",
+    "nickname": "Lora.Mraz",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:17.6104758+03:00"
+  },
+  "8eebcbd1-5c04-c10e-9c14-ff642c018f4e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 0:09:54"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:58",
+        "endDate": null
+      }
+    ],
+    "userId": "8eebcbd1-5c04-c10e-9c14-ff642c018f4e",
+    "firstName": "Victoria",
+    "nickname": "Victoria.Jenkins28",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:17.6394056+03:00"
+  },
+  "224d4c53-5a76-6dc4-b32e-f61234538e7f": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "224d4c53-5a76-6dc4-b32e-f61234538e7f",
+    "firstName": "Bethany",
+    "nickname": "Bethany_Berge",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:07:57.6291675+03:00"
+  },
+  "8a2924c9-1398-377a-fdea-14c59f3f14fe": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "8a2924c9-1398-377a-fdea-14c59f3f14fe",
+    "firstName": "Leticia",
+    "nickname": "Leticia1",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:37.6499772+03:00"
+  },
+  "2c6e98c4-30df-ef67-9a9e-bc8395b6d576": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:57"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "2c6e98c4-30df-ef67-9a9e-bc8395b6d576",
+    "firstName": "Cory",
+    "nickname": "Cory4",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:00:37.5927651+03:00"
+  },
+  "822076f8-9281-9775-611f-ae4d6ba537eb": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:57",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 14:02:47",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "822076f8-9281-9775-611f-ae4d6ba537eb",
+    "firstName": "Kelvin",
+    "nickname": "Kelvin.Koss22",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "c387187d-d53a-07a4-05fd-01315ee85985": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 22:11:39"
+      }
+    ],
+    "userId": "c387187d-d53a-07a4-05fd-01315ee85985",
+    "firstName": "Homer",
+    "nickname": "Homer_Bashirian15",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "5417df31-a12e-b9e8-3352-d95920ad8425": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 13:53:58"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "5417df31-a12e-b9e8-3352-d95920ad8425",
+    "firstName": "Joanne",
+    "nickname": "Joanne.Wisoky",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:17.6104781+03:00"
+  },
+  "b4b4c785-a85e-7edf-a844-05366db6b2e6": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "b4b4c785-a85e-7edf-a844-05366db6b2e6",
+    "firstName": "Katherine",
+    "nickname": "Katherine.Tremblay46",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:02:37.6030916+03:00"
+  },
+  "12cf011f-e95c-c2e2-9acb-9e98e3951bc3": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 14:02:24"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "12cf011f-e95c-c2e2-9acb-9e98e3951bc3",
+    "firstName": "Josephine",
+    "nickname": "Josephine54",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:37.6569512+03:00"
+  },
+  "ce170eaa-c6ef-fd1d-9302-4ac74d02c1bf": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:53:58"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "ce170eaa-c6ef-fd1d-9302-4ac74d02c1bf",
+    "firstName": "Olive",
+    "nickname": "Olive86",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:03:37.608118+03:00"
+  },
+  "9c4303e2-5b7f-dc51-493f-13bdf68b744c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "9c4303e2-5b7f-dc51-493f-13bdf68b744c",
+    "firstName": "Dallas",
+    "nickname": "Dallas.Bernhard27",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:02:17.6007889+03:00"
+  },
+  "12fd2f9d-a2c0-357c-cca2-f5d5b6781f56": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 14:01:38"
+      },
+      {
+        "startDate": "25.10.2023 22:11:39",
+        "endDate": null
+      }
+    ],
+    "userId": "12fd2f9d-a2c0-357c-cca2-f5d5b6781f56",
+    "firstName": "Norman",
+    "nickname": "Norman32",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:17.6527013+03:00"
+  },
+  "09a28a7e-eb04-dabb-d731-a80725f0e4a2": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "09a28a7e-eb04-dabb-d731-a80725f0e4a2",
+    "firstName": "Amos",
+    "nickname": "Amos80",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:08:57.6349044+03:00"
+  },
+  "25d3aa14-7f8c-d9df-407e-fb317d1209e2": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "25d3aa14-7f8c-d9df-407e-fb317d1209e2",
+    "firstName": "Leona",
+    "nickname": "Leona93",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:37.6110998+03:00"
+  },
+  "963d82d7-bbc1-6171-48dd-3d937541fc5d": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 13:52:51"
+      },
+      {
+        "startDate": "25.10.2023 13:53:58",
+        "endDate": "25.10.2023 14:01:38"
+      }
+    ],
+    "userId": "963d82d7-bbc1-6171-48dd-3d937541fc5d",
+    "firstName": "Freddie",
+    "nickname": "Freddie_Ortiz49",
+    "isOnline": true,
+    "lastSeenDate": null
+  },
+  "0d58777f-4a30-8fcf-5e6f-504c2e0da05e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": null
+      }
+    ],
+    "userId": "0d58777f-4a30-8fcf-5e6f-504c2e0da05e",
+    "firstName": "Kristy",
+    "nickname": "Kristy.Koelpin",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:37.6407774+03:00"
+  },
+  "697b9b37-a7c7-fec8-c202-c6d6adae5c03": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:30:21"
+      },
+      {
+        "startDate": "25.10.2023 11:44:29",
+        "endDate": null
+      }
+    ],
+    "userId": "697b9b37-a7c7-fec8-c202-c6d6adae5c03",
+    "firstName": "Julia",
+    "nickname": "Julia.Watsica",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:11:37.6569528+03:00"
+  },
+  "ca36308c-ddc8-5d79-3eaf-943307a5e8d3": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": null
+      }
+    ],
+    "userId": "ca36308c-ddc8-5d79-3eaf-943307a5e8d3",
+    "firstName": "Antoinette",
+    "nickname": "Antoinette47",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:05:37.6157355+03:00"
+  },
+  "43f99b4c-97cd-fb74-6e92-65e3db23225d": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:30:21"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": null
+      }
+    ],
+    "userId": "43f99b4c-97cd-fb74-6e92-65e3db23225d",
+    "firstName": "Anne",
+    "nickname": "Anne32",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:10:37.6499797+03:00"
+  },
+  "ecc84acf-4b30-5deb-d011-6f61c34b843e": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 11:22:35",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 13:52:51",
+        "endDate": "25.10.2023 13:53:58"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "ecc84acf-4b30-5deb-d011-6f61c34b843e",
+    "firstName": "Rochelle",
+    "nickname": "Rochelle18",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:04:37.6111015+03:00"
+  },
+  "3a6860f9-e74d-ee0e-00b3-d1e5d25bbe2c": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": null
+      }
+    ],
+    "userId": "3a6860f9-e74d-ee0e-00b3-d1e5d25bbe2c",
+    "firstName": "Stephanie",
+    "nickname": "Stephanie28",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:09:37.640779+03:00"
+  },
+  "61fbd1a7-2358-9782-7f2f-25a0b8d0fc37": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 0:08:35",
+        "endDate": "25.10.2023 11:22:35"
+      },
+      {
+        "startDate": "25.10.2023 11:30:21",
+        "endDate": "25.10.2023 11:44:29"
+      },
+      {
+        "startDate": "25.10.2023 14:01:38",
+        "endDate": null
+      }
+    ],
+    "userId": "61fbd1a7-2358-9782-7f2f-25a0b8d0fc37",
+    "firstName": "Margarita",
+    "nickname": "Margarita85",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T22:05:37.6157366+03:00"
+  },
+  "3f9747d7-d084-7db4-5226-220085e07b54": {
+    "onlineRelic": [
+      {
+        "startDate": "25.10.2023 22:11:38",
+        "endDate": null
+      }
+    ],
+    "userId": "3f9747d7-d084-7db4-5226-220085e07b54",
+    "firstName": "Erik",
+    "nickname": "Erik_Abshire",
+    "isOnline": false,
+    "lastSeenDate": "2023-10-25T21:39:37.4803713+03:00"
+  },
+  "99f065e9-2796-0dc7-97c4-8ea28db20bf7": {
+    "onlineRelic": [
+    ],
+    "userId": "99f065e9-2796-0dc7-97c4-8ea28db20bf7",
+    "firstName": "Eileen",
+    "nickname": "Eileen_Schneider30",
+    "isOnline": true,
+    "lastSeenDate": null
+  }
+}
